@@ -1,1 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
 
+		/* Styling the body element
+		like body color and margin */
+		
+		body {
+			background-color: #004ffa3c;
+			margin: 20%;
+		}
+
+		/* Styling the Title and giving
+		shadow to the title */
+		#title {
+			text-align: center;
+			text-shadow: 5px 5px 10px rgba(255, 255, 255, 0.534);
+			font-size: 7vh;
+		}
+
+		/* Setting width and display
+		type of image */
+		img {
+			display: inline-block;
+			width: 100%;
+		}
+
+		/* Setting font color and font
+		size of the image-caption */
+		#caption {
+			font-size: 50px;
+			font-family: Gill Sans;
+			color: rgba(0, 0, 0, 0.968);
+		}
+
+		/* Styling the content of the page like-
+		padding, font-size, font color etc.*/
+		div#tribute-data {
+			background-color: rgb(46, 139, 87, 0.25);
+			box-shadow: 20px 20px 20px #98FB98;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+
+		/* Styling the title of the content */
+		h1.title-APJ {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+
+		/* Styling the link provided at the end */
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
+        div#Table1 {
+            font-size: 40px;
+            text-align: center;
+        }
+	</style>
+</head>
+<body>
+    <main id="main">
+        <h1 id="title">
+            Major Mohit Sharma
+        </h1>
+        <div>
+            <img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Maj._Mohit_Sharma_%281_Para_SF%29_%28cropped%29.jpg/220px-Maj._Mohit_Sharma_%281_Para_SF%29_%28cropped%29.jpg" id="image" alt="Image">
+            <small id="caption">A valiant warrior,leadership and bravery
+            </small>
+        </div>
+        <div id="tribute-data">
+            <h1> Legacy of legend Lieutenant Mohit Sharma</h1>
+
+
+            <p>
+                ☛Mohit was born on 13 January 1978 in Rohtak, Haryana in a Hindu Brahmin family. He was very naughty since childhood. His nickname in family was "Chintu" while his NDA batch mates call him "Mike". He completed his 12th schooling from DPS Ghaziabad in 1995 after which he appeared for his NDA Exam.[clarification needed] At the same time he got admission to Shri Sant Gajanan Maharaj College of Engineering, Shegaon, Maharashtra, during which he cleared the SSB exam and joined the National Defence Academy (NDA).<br><br>
+                ☛Mohit Sharma joined the Indian Military Academy (IMA) in 1998.Major Mohit opted for the Para (Special Forces) and he became a trained Para Commando in June 2003.<br><br>
+                ☛promotion to captain on 11 December.[12] Before getting in 1 Para (SF), he served with the 38 Rashtriya Rifles. He was then posted in Kashmir where he showed his leadership and bravery. <br><br>
+                ☛Promoted as major on 11 December 2005,[13] he was awarded with the Sena Medal for his bravery. During the third posting.<br><br>
+                ☛Major Mohit Sharma, SM was leading Bravo Assault Team in operations in Kupwara District of North Kashmir. A valiant warrior, he excelled in the art of fighting guerrillas in jungle terrain having earlier spent four years in Jammu & Kashmir. <br><br>
+                ☛On 21 March 2009, after receiving information of presence of some infiltrating terrorists in dense Haphruda Forest, he planned meticulously and led his commandos in tracking them <br><br>
+                ☛ In the heavy exchange of fire, four commandos were wounded immediately. With complete disregard to his safety, he crawled and recovered two soldiers to safety. <br><br>
+                ☛ he threw grenades and killed two terrorists but was shot in the chest. <br><br>
+                ☛he charged in a daring close quarter combat killing two more terrorists and attained martyrdom fighting for his motherland in the finest traditions of Indian Army.
+                <br><br><br>
+                <thead id="Table">
+                   
+                
+            </p>
+        </div>
+        <div id="table1">
+        <table>
+            <tr>
+            <th>Rank</th>
+            <th>Award</th>
+        </tr>
+        <tbody><tr>
+            <td>Major-------></td>
+            <td>Ashoka chakra</td>
+        </tr></tbody>
+        <tbody>
+            <tr>
+                <td> Lieutenan----->  </td>
+                <td> Gallantry</td>
+            </tr>
+        </tbody>
+        </table>
+    </thead>
+</div>
+        <br>
+        <a id="tribute-link" href="#">
+			<b>MAJOR MOHIT SHARMA</b> on Wikipedia. [
+			<small>Developed by @<a href="#">
+					Akash kumar.</a></a>
+		</small>]
+    </main>
+</body>
+</HTML
